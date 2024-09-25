@@ -19,7 +19,9 @@
   </a>
 </p>-->
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=201810902&show_icons=true&theme=omni"></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=201810902&count_private=true&show_icons=true&theme=midnight-purple"></div>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats">
+
 <!--
 **201810902/201810902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
